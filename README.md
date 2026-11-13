@@ -1,6 +1,7 @@
-![Falcon banner](falcon-banter.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/786c24c4-76b7-45a7-a80e-3670abe5e3a1" />
 
-# `HELLO TECH.` 👾
+
+#                                                             `HELLO TECH.` 👾
 
 ### SOUMIK MOHAPATRA
 
