@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="./falcon-banner.png" width="100%" alt="Tech Falcon"/>
 
 # `HELLO TECH.` 👾
 
