@@ -1,7 +1,7 @@
 <div align="center">
   <img src="YOUR_FALCON_IMAGE_URL" width="100%" />
 </div>
-## Hi there 👋
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:312E81,100:06B6D4&height=200&section=header&text=SOUMIK%20MOHAPATRA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BEGINNER%20DEVELOPER%20%7C%20AI%20%26%20TECH%20ENTHUSIAST&descAlignY=58&descSize=14" width="100%"/>
