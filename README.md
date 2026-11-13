@@ -19,7 +19,9 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Soumik Mohapatra
+Name: S<div align="center">
+<img src="https://skillicons.dev/icons?i=c,java,python,cpp,html,css,git,github,vscode&theme=dark"/>
+</div>oumik Mohapatra
 Role: Beginner Developer
 Education: B.Tech CSE
 University: Birla Global University
